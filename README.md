@@ -18,4 +18,9 @@
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let">let Documentation - Mozilla Developer Network</a></li>
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const">const Documentation - Mozilla Developer Network</a></li>
 	<li><a href="https://remysharp.com/2016/08/09/var-const-let">"var const let" - By Remy Sharp</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template Literals - Mozilla Developer Network</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals">Tagged template literals</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith">startsWith Documentation - Mozilla Developer Network</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith">endsWith Documentation - Mozilla Developer Network</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes">includes Documentation - Mozilla Developer Network</a></li>
 </ul>
