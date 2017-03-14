@@ -13,14 +13,51 @@
 </ul>
 
 <h4>Resources:</h4>
-<ul>
-	<li><a href="http://kangax.github.io/compat-table/es6/">ES2015 Compatibility Chart</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let">let Documentation - Mozilla Developer Network</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const">const Documentation - Mozilla Developer Network</a></li>
-	<li><a href="https://remysharp.com/2016/08/09/var-const-let">"var const let" - By Remy Sharp</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template Literals - Mozilla Developer Network</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals">Tagged template literals</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith">startsWith Documentation - Mozilla Developer Network</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith">endsWith Documentation - Mozilla Developer Network</a></li>
-	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes">includes Documentation - Mozilla Developer Network</a></li>
-</ul>
+<figure>
+	<figcaption>General:</figcaption>
+		<ul>
+			<li><a href="http://kangax.github.io/compat-table/es6/">ES2015 Compatibility Chart</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>const &amp; let:</figcaption>
+		<ul>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let">let Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const">const Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://remysharp.com/2016/08/09/var-const-let">"var const let" - By Remy Sharp</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Template Literals:</figcaption>
+		<ul>		
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template Literals - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_template_literals">Tagged template literals</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>String Search Methods:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith">startsWith Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith">endsWith Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes">includes Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
