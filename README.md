@@ -17,6 +17,7 @@
 	<figcaption>General:</figcaption>
 		<ul>
 			<li><a href="http://kangax.github.io/compat-table/es6/">ES2015 Compatibility Chart</a></li>
+			<li><a href="https://github.com/ericdouglas/ES6-Learning">Eric Douglas github</a></li>
 		</ul>
 </figure>
 <figure>
