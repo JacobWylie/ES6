@@ -11,3 +11,11 @@
 	<li>Data Structures</li>
 	<li>Classes</li>
 </ul>
+
+<h4>Resources:</h4>
+<ul>
+	<li><a href="http://kangax.github.io/compat-table/es6/">ES2015 Compatibility Chart</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let">let Documentation - Mozilla Developer Network</a></li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const">const Documentation - Mozilla Developer Network</a></li>
+	<li><a href="https://remysharp.com/2016/08/09/var-const-let">"var const let" - By Remy Sharp</a></li>
+</ul>
