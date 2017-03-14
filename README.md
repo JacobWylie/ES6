@@ -51,6 +51,13 @@
 			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise Documentation - Mozilla Developer Network</a></li>
 		</ul>
 </figure>
+<figure>
+	<figcaption>Default Parameters:</figcaption>
+		<ul>	
+			<li><a href="http://codepen.io/kenhowardpdx/pen/YqLOMZ?editors=0011">ES2015 Default Parameters: Codepen</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Default Parameters Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
 
 
 
