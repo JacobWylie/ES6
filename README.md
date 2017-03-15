@@ -1,11 +1,27 @@
 <h1>What's New in ES6</h1>
 <p>Thrown together by Jacob Wylie</p>
 
+
+<figure>
+	<figcaption>Compatability</figcaption>
+		<ul>
+			<li><a href="http://kangax.github.io/compat-table/es6/">Compatibility Table for Browsers</a></li>
+			<li><a href="http://kangax.github.io/compat-table/esnext/">Compatibility Table for Transpilers</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>ES2016/ES7?</figcaption>
+		<ul>
+			<li><a href="http://www.2ality.com/2016/01/ecmascript-2016.html">ES7/ES2016 Features and Changes</a></li>
+			<li><a href="http://javascriptplayground.com/blog/2016/02/es2016-and-beyond/">"JavaScript Releases: ES2016 and Beyond", 08 February 2016: by Jack Franklin</a></li>
+		</ul>
+</figure>
+
 <h3>Resources:</h3>
 <figure>
 	<figcaption>General:</figcaption>
 		<ul>
-			<li><a href="http://kangax.github.io/compat-table/es6/">ES2015 Compatibility Chart</a></li>
+			<li><a href="https://babeljs.io/learn-es2015/">Babel: Learn ES2015</a></li>
 			<li><a href="https://github.com/ericdouglas/ES6-Learning">Eric Douglas github</a></li>
 		</ul>
 </figure>
@@ -101,6 +117,25 @@
 	<figcaption>Structure of Class:</figcaption>
 		<ul>	
 			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">Class Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Sub Classes:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends">extends Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var_hoisting">var Hoisting - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Static Methods:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static">static Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Getter and Setter Methods:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#Defining_getters_and_setters">Defining Getters and Setters - Mozilla Developer Network</a></li>
 		</ul>
 </figure>
 
