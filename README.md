@@ -1,17 +1,7 @@
 <h1>What's New in ES6</h1>
+<p>Thrown together by Jacob Wylie</p>
 
-<p>Learn the basics of the ECMAScript 2015, also knowns as ES6, JavaScript standard. JavaScript has come a long way since it’s inception in 1995. The ECMAScript 2015 specification brought a lot of improvements, the largest set of changes the language has seen to-date. In this course, we’ll review some of the new features and demonstrate how they can be used to build better JavaScript applications.</p>
-
-<h4>Topics:</h4>
-<ul>
-	<li>Variable declaration with let and const</li>
-	<li>Arrow Functions</li>
-	<li>Destructuring</li>
-	<li>Data Structures</li>
-	<li>Classes</li>
-</ul>
-
-<h4>Resources:</h4>
+<h3>Resources:</h3>
 <figure>
 	<figcaption>General:</figcaption>
 		<ul>
