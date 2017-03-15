@@ -91,6 +91,18 @@
 			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from">Array.from() Documentation - Mozilla Developer Network</a></li>
 		</ul>
 </figure>
+<figure>
+	<figcaption>Map:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map">Map Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Structure of Class:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">Class Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
 
 
 
