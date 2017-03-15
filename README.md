@@ -73,7 +73,34 @@
 			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator">Spread Operator Documentation - Mozilla Developer Network</a></li>
 		</ul>
 </figure>
-
+<figure>
+	<figcaption>Destructuring:</figcaption>
+		<ul>	
+			<li><a href="http://codepen.io/kenhowardpdx/pen/xVjyrg?editors=0011">Destructuring - CodePen #1</a></li>
+			<li><a href="http://codepen.io/kenhowardpdx/pen/vGjVeR?editors=0011">Destructuring - CodePen #2</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Destructuring Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Object Property Shorthand:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#New_notations_in_ECMAScript_2015">Object Initializer - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Object Property Shorthand:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of">for...of Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in">for...in Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Set:</figcaption>
+		<ul>	
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set">Set Documentation - Mozilla Developer Network</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from">Array.from() Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
 
 
 
