@@ -58,6 +58,21 @@
 			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Default Parameters Documentation - Mozilla Developer Network</a></li>
 		</ul>
 </figure>
+<figure>
+	<figcaption>Rest Parameters:</figcaption>
+		<ul>	
+			<li><a href="http://codepen.io/kenhowardpdx/pen/EKLdxV?editors=0011">Rest Parameter</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">Rest Parameters Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
+<figure>
+	<figcaption>Spread Operator:</figcaption>
+		<ul>	
+			<li><a href="http://codepen.io/kenhowardpdx/pen/RayePj?editors=0011">Spread Operator #1</a></li>
+			<li><a href="http://codepen.io/kenhowardpdx/pen/eZrPzm?editors=0011">Spread Operator #2</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator">Spread Operator Documentation - Mozilla Developer Network</a></li>
+		</ul>
+</figure>
 
 
 
