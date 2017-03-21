@@ -1,3 +1,4 @@
+<img src="http://www.devacron.com/wp-content/uploads/2016/02/ES6-ecmascript6-logo.jpg" alt="es6 logo">
 <h1>What's New in ES6</h1>
 <p>Thrown together by Jacob Wylie</p>
 
